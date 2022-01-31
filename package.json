@@ -1,0 +1,14 @@
+{
+  "name": "test-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "puppeteer": "^13.1.2"
+  },
+  "type": "module"
+}
